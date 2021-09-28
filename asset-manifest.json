@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Greet_App/static/css/main.208bc55d.chunk.css",
+    "main.js": "/Greet_App/static/js/main.2333ad14.chunk.js",
+    "main.js.map": "/Greet_App/static/js/main.2333ad14.chunk.js.map",
+    "runtime-main.js": "/Greet_App/static/js/runtime-main.f81fa391.js",
+    "runtime-main.js.map": "/Greet_App/static/js/runtime-main.f81fa391.js.map",
+    "static/js/2.2ce09c37.chunk.js": "/Greet_App/static/js/2.2ce09c37.chunk.js",
+    "static/js/2.2ce09c37.chunk.js.map": "/Greet_App/static/js/2.2ce09c37.chunk.js.map",
+    "static/js/3.bb3bb7c6.chunk.js": "/Greet_App/static/js/3.bb3bb7c6.chunk.js",
+    "static/js/3.bb3bb7c6.chunk.js.map": "/Greet_App/static/js/3.bb3bb7c6.chunk.js.map",
+    "index.html": "/Greet_App/index.html",
+    "static/css/main.208bc55d.chunk.css.map": "/Greet_App/static/css/main.208bc55d.chunk.css.map",
+    "static/js/2.2ce09c37.chunk.js.LICENSE.txt": "/Greet_App/static/js/2.2ce09c37.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Greet_App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81fa391.js",
+    "static/js/2.2ce09c37.chunk.js",
+    "static/css/main.208bc55d.chunk.css",
+    "static/js/main.2333ad14.chunk.js"
+  ]
+}
